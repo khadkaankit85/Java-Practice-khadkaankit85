@@ -2,9 +2,7 @@ import java.util.Scanner;
 
 public class FunctionsAndMethods2 {
   public static void main(String[] args) {
-    double a;
-    double b;
-    double c;
+    double a, b, c;
     String enteredString;
     String[] separatedNum;
     do {
